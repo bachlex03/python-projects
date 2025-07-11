@@ -1,0 +1,62 @@
+---
+globs: 1_MS_Office_To_Json/
+alwaysApply: false
+---
+
+# Dự án MS Office To JSON
+
+## Mô tả
+
+Dự án này chuyển đổi các tài liệu MS Office (đặc biệt là PDF) sang định dạng JSON.
+
+## File test chính
+
+- **phieu_noi_soi.pdf**: File PDF mẫu được sử dụng để test chức năng chuyển đổi
+- Đây là file test chính của dự án, nằm trong thư mục `1_MS_Office_To_Json/`
+- Tất cả output sẽ được lưu trong thư mục `1_MS_Office_To_Json/output/`
+
+## Yêu cầu kỹ thuật
+
+- Python environment với virtual environment
+- Module pypdf để xử lý PDF
+- Module pdf2json cho chuyển đổi
+
+## Cấu trúc dự án
+
+```
+1_MS_Office_To_Json/
+├── phieu_noi_soi.pdf (FILE TEST CHÍNH)
+├── phieu_noi_soi.docx (File Word tương ứng)
+├── pdf2json.py (Script chuyển đổi)
+├── nb-pdf2json.ipynb (Jupyter notebook)
+└── output/ (Thư mục chứa kết quả)
+```
+
+# Dự án MS Office To JSON
+
+## Mô tả
+
+Dự án này chuyển đổi các tài liệu MS Office (đặc biệt là PDF) sang định dạng JSON.
+
+## File test chính
+
+- **phieu_noi_soi.pdf**: File PDF mẫu được sử dụng để test chức năng chuyển đổi
+- Đây là file test chính của dự án, nằm trong thư mục `1_MS_Office_To_Json/`
+- Tất cả output sẽ được lưu trong thư mục `1_MS_Office_To_Json/output/`
+
+## Yêu cầu kỹ thuật
+
+- Python environment với virtual environment
+- Module pypdf để xử lý PDF
+- Module pdf2json cho chuyển đổi
+
+## Cấu trúc dự án
+
+```
+1_MS_Office_To_Json/
+├── phieu_noi_soi.pdf (FILE TEST CHÍNH)
+├── phieu_noi_soi.docx (File Word tương ứng)
+├── pdf2json.py (Script chuyển đổi)
+├── nb-pdf2json.ipynb (Jupyter notebook)
+└── output/ (Thư mục chứa kết quả)
+```
