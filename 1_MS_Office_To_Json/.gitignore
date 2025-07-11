@@ -1,8 +1,2 @@
-__pycache__/
-include/
-lib/
-lib64/
-local/
-bin/
-share/
-Scripts/
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
