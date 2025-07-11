@@ -1,0 +1,369 @@
+{
+  "document_info": {
+    "filename": "phieu_noi_soi.pdf",
+    "processed_date": "2025-07-11T00:13:44.678767",
+    "total_pages": 2,
+    "library_used": "spacy-layout"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_layout": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "sections": [
+        {
+          "label": "text",
+          "text": "Sở Y tế:",
+          "layout": {
+            "x": 43.224,
+            "y": 60.583999999999946,
+            "width": 42.78000000000001,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<COQUANCHUQUAN>",
+          "layout": {
+            "x": 43.224,
+            "y": 77.62399999999991,
+            "width": 131.316,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": ">",
+          "layout": {
+            "x": 43.224,
+            "y": 94.904,
+            "width": 9.720000000000006,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "BV: <<COSOKCB>>",
+          "layout": {
+            "x": 43.224,
+            "y": 112.18399999999997,
+            "width": 109.846,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "section_header",
+          "text": "PHIẾU NỘI SOI",
+          "layout": {
+            "x": 236.98,
+            "y": 61.85399999999993,
+            "width": 120.46000000000001,
+            "height": 13.524999999999977,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "(lần thứ <<LanThu>>)",
+          "layout": {
+            "x": 228.1,
+            "y": 83.71999999999991,
+            "width": 134.035,
+            "height": 12.002000000000066,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "MS: 25/BV-01",
+          "layout": {
+            "x": 421.37,
+            "y": 60.583999999999946,
+            "width": 74.77999999999997,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "Số  <<SoVaoVien>>",
+          "layout": {
+            "x": 421.37,
+            "y": 77.62399999999991,
+            "width": 104.80999999999995,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "- Họ tên người bệnh: <<HoTen>>                        Tuổi: <<Tuoi>>  Nam/Nữ: <<GioiTinh>>",
+          "layout": {
+            "x": 43.224,
+            "y": 146.774,
+            "width": 442.606,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "Địa chỉ:<<DiaChi>>",
+          "layout": {
+            "x": 43.224,
+            "y": 164.05399999999997,
+            "width": 110.08600000000001,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "Khoa: <<KhoaId>> Buồng: <<BuongId>> Giường: <<GiuongId>>",
+          "layout": {
+            "x": 43.224,
+            "y": 181.33399999999995,
+            "width": 335.276,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "Chẩn đoán: <<ChanDoan>>",
+          "layout": {
+            "x": 43.224,
+            "y": 198.61399999999992,
+            "width": 146.32600000000002,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "Yêu cầu kiểm tra:",
+          "layout": {
+            "x": 43.224,
+            "y": 215.67399999999998,
+            "width": 95.666,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "<<YeuCauKiemTra>>",
+          "layout": {
+            "x": 43.224,
+            "y": 232.95399999999995,
+            "width": 112.726,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "list_item",
+          "text": "Hẹn ghi điện não: <<HHHenGhiDienNao>>giờ <<MMHenGhiDienNao>>ngày <<NgayHienGhiDienNao>>",
+          "layout": {
+            "x": 43.224,
+            "y": 267.21899999999994,
+            "width": 494.95599999999996,
+            "height": 9.505999999999972,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<NgayLapPhieu>>",
+          "layout": {
+            "x": 409.85,
+            "y": 283.342,
+            "width": 104.26800000000003,
+            "height": 10.34699999999998,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "BÁC SĨ ĐIỀU TRỊ",
+          "layout": {
+            "x": 413.45,
+            "y": 301.096,
+            "width": 99.90000000000003,
+            "height": 10.092999999999961,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "Họ tên: ...........................................",
+          "layout": {
+            "x": 81.624,
+            "y": 369.5439999999999,
+            "width": 449.596,
+            "height": 10.33200000000005,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "section_header",
+          "text": "KẾT QUẢ NỘI SOI",
+          "layout": {
+            "x": 43.224,
+            "y": 404.9359999999999,
+            "width": 153.092,
+            "height": 11.709000000000003,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "(loại máy soi, thuốc dùng)",
+          "layout": {
+            "x": 196.63,
+            "y": 406.0319999999999,
+            "width": 129.05,
+            "height": 10.347000000000037,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<LoaiMaySoi>>",
+          "layout": {
+            "x": 43.224,
+            "y": 424.28399999999993,
+            "width": 90.14600000000002,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<ThuocDung>>",
+          "layout": {
+            "x": 43.224,
+            "y": 441.56399999999996,
+            "width": 87.506,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<KQNoiSoi>>",
+          "layout": {
+            "x": 43.224,
+            "y": 458.84399999999994,
+            "width": 81.506,
+            "height": 10.331999999999994,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "KẾT LUẬN:",
+          "layout": {
+            "x": 43.224,
+            "y": 701.1659999999999,
+            "width": 77.24199999999999,
+            "height": 11.70900000000006,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<KetLuan>>",
+          "layout": {
+            "x": 43.224,
+            "y": 720.5139999999999,
+            "width": 72.14600000000002,
+            "height": 10.332000000000107,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "Lời dặn của BS chuyên khoa:",
+          "layout": {
+            "x": 43.224,
+            "y": 789.852,
+            "width": 150.96,
+            "height": 10.092999999999961,
+            "page_no": 1
+          }
+        },
+        {
+          "label": "text",
+          "text": "<<NgayLapPhieu>>",
+          "layout": {
+            "x": 432.41,
+            "y": 772.1279999999999,
+            "width": 104.26799999999997,
+            "height": 10.34699999999998,
+            "page_no": 1
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_layout": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "sections": [
+        {
+          "label": "text",
+          "text": "<<LoiDanCuaBSCK>>",
+          "layout": {
+            "x": 43.224,
+            "y": 45.94399999999996,
+            "width": 117.52600000000001,
+            "height": 10.331999999999994,
+            "page_no": 2
+          }
+        },
+        {
+          "label": "text",
+          "text": "Họ tên: ...........................................",
+          "layout": {
+            "x": 378.14,
+            "y": 106.42399999999998,
+            "width": 170.60000000000002,
+            "height": 10.331999999999994,
+            "page_no": 2
+          }
+        },
+        {
+          "label": "text",
+          "text": "Hướng dẫn",
+          "layout": {
+            "x": 43.224,
+            "y": 158.24599999999998,
+            "width": 58.224,
+            "height": 10.092999999999961,
+            "page_no": 2
+          }
+        },
+        {
+          "label": "text",
+          "text": ": In khổ A4, dọc.",
+          "layout": {
+            "x": 101.57,
+            "y": 158.05399999999997,
+            "width": 73.28300000000002,
+            "height": 10.331999999999994,
+            "page_no": 2
+          }
+        }
+      ]
+    }
+  ]
+}
